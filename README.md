@@ -5,6 +5,9 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoalaBeans&theme=tokyonight&layout=compact" alt="KoalaBeans Language Usage">
 </p>
+
+# What i'm currently working on
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KoalaBeans&repo=Dark-Discord&theme=tokyonight)](https://github.com/KoalaBeans/Dark-Discord)
 <!--
 **KoalaBeans/KoalaBeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
