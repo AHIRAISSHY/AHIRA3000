@@ -1,7 +1,7 @@
 ### Hi there 👋
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KoalaBeans&show_icons=true&theme=tokyonight&show_icons=true" alt="KoalaBeans's github stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KoalaBeans&show_icons=true&theme=tokyonight&show_icons=true" alt="KoalaBeans github stats">
 </p>
 <!--
 **KoalaBeans/KoalaBeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
