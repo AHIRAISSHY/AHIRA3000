@@ -9,7 +9,6 @@
 # Things i've made
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KoalaBeans&repo=Dark-Discord&theme=tokyonight)](https://github.com/KoalaBeans/Dark-Discord)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KoalaBeans&repo=KoalaCogs&theme=tokyonight)](https://github.com/KoalaBeans/KoalaCogs)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KoalaBeans&repo=cursed.js&theme=tokyonight)](https://github.com/KoalaBeans/cursed.js)
 <!--
 **KoalaBeans/KoalaBeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
